@@ -117,8 +117,8 @@ export const managers = [
   "favoriteTeam": "gb, // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
   "mode": "Dynasty(optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
   "rival": {
-        name: "Mason Beck", // Can be anything (usually your rival's name)
-        link: 5, // manager array number within this array, or null to link back to all managers page
+        name: "Tyler Berry", // Can be anything (usually your rival's name)
+        link: 6, // manager array number within this array, or null to link back to all managers page
         image: "/managers/everyone.jpg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
       },
   "favoritePlayer": 4510, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
