@@ -1,7 +1,7 @@
 /*   STEP 1   */
-export const leagueID = "704173918558175232"; // your league ID
+export const leagueID = "786753111254519808"; // your league ID
 export const leagueName = "Armchair Football League"; // your league name
-export const dues = 100; // (optional) used in template constitution page
+export const dues = 55; // (optional) used in template constitution page
 export const dynasty = true; // true for dynasty leagues, false for redraft and keeper
 export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VITE_CONTENTFUL_SPACE environment variables
 
