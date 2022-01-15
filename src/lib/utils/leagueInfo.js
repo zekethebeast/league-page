@@ -107,7 +107,7 @@ export const managers = [
   "tradingScale": 10, // 1 - 10
   "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
-  {
+{
   "roster": 5,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
   "name": "Mason Beck",
   "location": "West Point ", // (optional)
@@ -120,7 +120,7 @@ export const managers = [
         name: "Tyler Berry", // Can be anything (usually your rival's name)
         link: 6, // manager array number within this array, or null to link back to all managers page
         image: "/managers/everyone.jpg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
-      },
+       },
   "favoritePlayer": 96, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
   "valuePosition": "QB", // (optional) Favorite position (QB, WR, RB, TE, etc.)
   "rookieOrVets": "Vets", // (optional) 'Rookies' or 'Vets' (anything else and you will need to add a new png to /static/ similar to the 'Rookies.png' and 'Vets.png' currently in there)
@@ -128,7 +128,7 @@ export const managers = [
   "tradingScale": 6, // 1 - 10
   "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
-  {
+ {
    "roster": 6,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
    "name": "Tyler Berry",
    "location": "Vero Beach", // (optional)
@@ -138,10 +138,10 @@ export const managers = [
    "favoriteTeam": "atl", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
    "mode": "Dynasty", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
    "rival": {
-       name: "Chris Ralph", // Can be anything (usually your rival's name)
+        name: "Chris Ralph", // Can be anything (usually your rival's name)
         link: 2, // manager array number within this array, or null to link back to all managers page
         image: "/managers/everyone.jpg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
-      },
+       },
    "favoritePlayer": 3198, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
    "valuePosition": "RB", // (optional) Favorite position (QB, WR, RB, TE, etc.)
    "rookieOrVets": "Rookies", // (optional) 'Rookies' or 'Vets' (anything else and you will need to add a new png to /static/ similar to the 'Rookies.png' and 'Vets.png' currently in there)
@@ -149,7 +149,7 @@ export const managers = [
    "tradingScale": 10, // 1 - 10
    "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     }, 
-  {
+{
    "roster": 7,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
    "name": "Hufnagle",
    "location": "Falkville", // (optional)
@@ -170,7 +170,7 @@ export const managers = [
    "tradingScale": 2, // 1 - 10
    "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
-  {
+{
    "roster": 8,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
    "name": "Tyler Ballew",
    "location": "Cullman", // (optional)
@@ -183,15 +183,15 @@ export const managers = [
         name: "Whoever I;'m Playing", // Can be anything (usually your rival's name)
         link: null, // manager array number within this array, or null to link back to all managers page
         image: "/managers/everyone.jpg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
-      },
+       },
    "favoritePlayer": 3198, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
    "valuePosition": "RB", // (optional) Favorite position (QB, WR, RB, TE, etc.)
    "rookieOrVets": "Vets", // (optional) 'Rookies' or 'Vets' (anything else and you will need to add a new png to /static/ similar to the 'Rookies.png' and 'Vets.png' currently in there)
    "philosophy": "Dominate at all cost",
    "tradingScale": 8, // 1 - 10
    "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
-    },
-  {
+     },
+{
    "roster": 9,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
    "name": "Zach",
    "location": "Cullman", // (optional)
@@ -211,8 +211,8 @@ export const managers = [
    "philosophy": "****",
    "tradingScale": 10, // 1 - 10
    "preferredContact": "Carrier Pigeon", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
-    },
-  {
+     },
+{
    "roster": 10,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
    "name": "Clarke Thrower",
    "location": "Cullman", // (optional)
