@@ -43,8 +43,8 @@ export const managers = [
   "philosophy": "Take what I get, trade for where I miss",
   "tradingScale": 8, // 1 - 10
   "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
-},
-    {
+  },
+{
       "roster": 2,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Chris Ralph",
       "location": "Baileyton", // (optional)
@@ -64,8 +64,8 @@ export const managers = [
       "philosophy": "Trust my process",
       "tradingScale": 10, // 1 - 10
       "preferredContact": "Phone", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
-    },
-    {
+   },
+ {
       "roster": 3,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Jeffrey Leonard",
       "location": "Cullman, AL", // (optional)
@@ -85,8 +85,8 @@ export const managers = [
       "philosophy": "Go with your Gut. Don’t be a rankings whore.",
       "tradingScale": 5, // 1 - 10
       "preferredContact": "Sleeper", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
-    },
-      {
+   },
+ {
       "roster": 4,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Jordan Alston",
       "location": "Addison", // (optional)
