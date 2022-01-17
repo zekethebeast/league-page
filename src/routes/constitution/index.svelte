@@ -1,4 +1,4 @@
-<script context="module">
+u<script context="module">
 	export const prerender = true;
 </script>
 
@@ -104,31 +104,33 @@
     
     <h2 class="noUnderscore">TABLE OF CONTENTS</h2>
     
-    <h3 class="noUnderscore clickable" on:click={() => goToSection(one)}>Section 1: Roster</h3>
-        <h4 class="noUnderscore clickable" on:click={() => goToSection(oneOne)}>1.1 Positional Breakdown</h4>
-            <h5 class="noUnderscore clickable" on:click={() => goToSection(oneOneOne)}>1.1.1 Position Maximums</h5>
-        <h4 class="noUnderscore clickable" on:click={() => goToSection(oneTwo)}>1.2 Trading</h4>
-            <h5 class="noUnderscore clickable" on:click={() => goToSection(oneTwoOne)}>1.2.1 Trade Collusion</h5>
-            <h5 class="noUnderscore clickable" on:click={() => goToSection(oneTwoTwo)}>1.2.2 Lending Players Prohibition</h5>
-            <h5 class="noUnderscore clickable" on:click={() => goToSection(oneTwoThree)}>1.2.3 Trade Deadline</h5>
-            <h5 class="noUnderscore clickable" on:click={() => goToSection(oneTwoFour)}>1.2.4 Trade Restrictions</h5>
-            <h5 class="noUnderscore clickable" on:click={() => goToSection(oneTwoFive)}>1.2.5 Veto/Trade Process</h5>
-        <h4 class="noUnderscore clickable" on:click={() => goToSection(oneThree)}>1.3 Waiver Wire</h4>
+    <h3 class="noUnderscore clickable" on:click={() => goToSection(one)}>Section 1: League Breakdown</h3>
+        <h4 class="noUnderscore clickable" on:click={() => goToSection(oneOne)}>1.1  Executive Committee</h4>
+        <h4 class="noUnderscore clickable" on:click={() => goToSection(oneTwo)}>1.2  Living Constitution</h4>
     
-    <h3 class="noUnderscore clickable" on:click={() => goToSection(two)}>Section 2: Drafting</h3>
+    <h3 class="noUnderscore clickable" on:click={() => goToSection(two)}>Section 2: League Financing</h3>
     
-        <h4 class="noUnderscore clickable" on:click={() => goToSection(twoOne)}>2.1 Draft Order</h4>
-        <h4 class="noUnderscore clickable" on:click={() => goToSection(twoTwo)}>2.2 Rookie Drafts</h4>
-        <h4 class="noUnderscore clickable" on:click={() => goToSection(twoThree)}>2.3 Draft Day Trades</h4>
+        <h4 class="noUnderscore clickable" on:click={() => goToSection(twoOne)}>2.1 League Fee</h4>
+        <h4 class="noUnderscore clickable" on:click={() => goToSection(twoTwo)}>2.2 Prize Money</h4>
     
-    <h3 class="noUnderscore clickable" on:click={() => goToSection(three)}>Section 3: Scoring System</h3>
+    <h3 class="noUnderscore clickable" on:click={() => goToSection(three)}>Section 3: League setup and Competition</h3>
     
-        <h4 class="noUnderscore clickable" on:click={() => goToSection(threeOne)}>3.1 Voting on Scoring System</h4>
+        <h4 class="noUnderscore clickable" on:click={() => goToSection(threeOne)}>3.1 Overview</h4>
+	<h4 class="noUnderscore clickable" on:click={() => goToSection(threeTwo)}>3.2 Division Rankings</h4>
+	<h4 class="noUnderscore clickable" on:click={() => goToSection(threeThree)}>3.3 Playoffs</h4>
     
-    <h3 class="noUnderscore clickable" on:click={() => goToSection(four)}>Section 4: Postseason</h3>
+    <h3 class="noUnderscore clickable" on:click={() => goToSection(four)}>Section 4: Rosters and Playoffs</h3>
     
-        <h4 class="noUnderscore clickable" on:click={() => goToSection(fourOne)}>4.1 Playoffs</h4>
-        <h4 class="noUnderscore clickable" on:click={() => goToSection(fourTwo)}>4.2 Playoff Tiebreakers</h4>
+        <h4 class="noUnderscore clickable" on:click={() => goToSection(fourOne)}>4.1 Overview</h4>
+        <h4 class="noUnderscore clickable" on:click={() => goToSection(fourTwo)}>4.2 The Draft</h4>
+	<h4 class="noUnderscore clickable" on:click={() => goToSection(fourTwo)}>4.3 The Roster</h4>
+	<h4 class="noUnderscore clickable" on:click={() => goToSection(fourTwo)}>4.4 Free Agency</h4>
+	<h4 class="noUnderscore clickable" on:click={() => goToSection(fourTwo)}>4.5 Trades</h4>
+	<h4 class="noUnderscore clickable" on:click={() => goToSection(fourTwo)}>4.5.1 Trade Veto</h4>
+	<h4 class="noUnderscore clickable" on:click={() => goToSection(fourTwo)}>4.6 Starting Lineups</h4>
+	<h4 class="noUnderscore clickable" on:click={() => goToSection(fourTwo)}>4.6.1 Position Designations</h4>
+	<h4 class="noUnderscore clickable" on:click={() => goToSection(fourTwo)}>4.7 Active Ownership Requirements</h4>
+	<h4 class="noUnderscore clickable" on:click={() => goToSection(fourTwo)}>4.8 Anti‐Tanking Provision</h4>
 
     <h3 class="noUnderscore clickable" on:click={() => goToSection(five)}>Section 5: Tanking Policy</h3>
     
