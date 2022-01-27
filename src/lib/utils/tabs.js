@@ -66,6 +66,11 @@ export const tabs = [
                 label: 'Go to Sleeper',
                 dest: `https://sleeper.app/leagues/${leagueID}`,
             },
+            {
+                icon: 'sports_football',
+                label: 'Go to LeagueSafe',
+                dest: `https://www.leaguesafe.com/league/4013662`,
+            },
         ]
     },
     {
