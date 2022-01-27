@@ -68,7 +68,7 @@ export const tabs = [
             },
             {
                 icon: 'sports_football',
-                label: 'Go to LeagueSafe',
+                label: 'Pay Dues',
                 dest: `https://www.leaguesafe.com/league/4013662`,
             },
         ]
