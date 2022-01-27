@@ -67,7 +67,7 @@ export const tabs = [
                 dest: `https://sleeper.app/leagues/${leagueID}`,
             },
             {
-                icon: 'sports_football',
+                icon: 'money',
                 label: 'Pay Dues',
                 dest: `https://www.leaguesafe.com/league/4013662`,
             },
