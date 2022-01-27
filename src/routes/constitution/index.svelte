@@ -4,13 +4,13 @@ u<script context="module">
 
 <script>
     import { dues } from '$lib/utils/helper';
-    let one, oneOne, oneOneOne, oneTwo, oneTwoOne, oneTwoTwo, oneTwoThree, oneTwoFour, oneTwoFive, oneThree;
-    let two, twoOne, twoTwo, twoThree;
-    let three, threeOne;
-    let four, fourOne, fourTwo;
-    let five, fiveOne;
-    let six, sixOne, sixTwo, sixThree;
-    let seven, sevenOne, sevenTwo, sevenThree;
+    let one, oneOne, oneTwo;
+    let two, twoOne, twoTwo;
+    let three, threeOne, threeTwo, threeThree;
+    let four, fourOne, fourTwo, fourThree, fourFour, fourFive, fourFiveOne, fourSix, fourSixOne, fourSeven, fourEight;
+    let five;
+    let six;
+    let seven;
 
     const goToSection = (section) => {
         const top = section.getBoundingClientRect().top;
@@ -123,57 +123,35 @@ u<script context="module">
     
         <h4 class="noUnderscore clickable" on:click={() => goToSection(fourOne)}>4.1 Overview</h4>
         <h4 class="noUnderscore clickable" on:click={() => goToSection(fourTwo)}>4.2 The Draft</h4>
-	<h4 class="noUnderscore clickable" on:click={() => goToSection(fourTwo)}>4.3 The Roster</h4>
-	<h4 class="noUnderscore clickable" on:click={() => goToSection(fourTwo)}>4.4 Free Agency</h4>
-	<h4 class="noUnderscore clickable" on:click={() => goToSection(fourTwo)}>4.5 Trades</h4>
-	<h4 class="noUnderscore clickable" on:click={() => goToSection(fourTwo)}>4.5.1 Trade Veto</h4>
-	<h4 class="noUnderscore clickable" on:click={() => goToSection(fourTwo)}>4.6 Starting Lineups</h4>
-	<h4 class="noUnderscore clickable" on:click={() => goToSection(fourTwo)}>4.6.1 Position Designations</h4>
-	<h4 class="noUnderscore clickable" on:click={() => goToSection(fourTwo)}>4.7 Active Ownership Requirements</h4>
-	<h4 class="noUnderscore clickable" on:click={() => goToSection(fourTwo)}>4.8 Anti‐Tanking Provision</h4>
+	<h4 class="noUnderscore clickable" on:click={() => goToSection(fourThree)}>4.3 The Roster</h4>
+	<h4 class="noUnderscore clickable" on:click={() => goToSection(fourFour)}>4.4 Free Agency</h4>
+	<h4 class="noUnderscore clickable" on:click={() => goToSection(fourFive)}>4.5 Trades</h4>
+	<h4 class="noUnderscore clickable" on:click={() => goToSection(fourFiveOne)}>4.5.1 Trade Veto</h4>
+	<h4 class="noUnderscore clickable" on:click={() => goToSection(fourSix)}>4.6 Starting Lineups</h4>
+	<h4 class="noUnderscore clickable" on:click={() => goToSection(fourSixOne)}>4.6.1 Position Designations</h4>
+	<h4 class="noUnderscore clickable" on:click={() => goToSection(fourSeven)}>4.7 Active Ownership Requirements</h4>
+	<h4 class="noUnderscore clickable" on:click={() => goToSection(fourEight)}>4.8 Anti‐Tanking Provision</h4>
 
-    <h3 class="noUnderscore clickable" on:click={() => goToSection(five)}>Section 5: Tanking Policy</h3>
+    <h3 class="noUnderscore clickable" on:click={() => goToSection(five)}>Section 5: Scoring System</h3>
     
-        <h4 class="noUnderscore clickable" on:click={() => goToSection(fiveOne)}>5.1 League Tanking Policy</h4>
-
-    <h3 class="noUnderscore clickable" on:click={() => goToSection(six)}>Section 6: Replacing Managers</h3>
+    <h3 class="noUnderscore clickable" on:click={() => goToSection(six)}>Section 6: Offseason Activities</h3>
     
-        <h4 class="noUnderscore clickable" on:click={() => goToSection(sixOne)}>6.1 Removing Managers</h4>
-        <h4 class="noUnderscore clickable" on:click={() => goToSection(sixTwo)}>6.2 Replacing Managers</h4>
-        <h4 class="noUnderscore clickable" on:click={() => goToSection(sixThree)}>6.3 Replacement Incentive</h4>
-
-    <h3 class="noUnderscore clickable" on:click={() => goToSection(seven)}>Section 7: League Finances</h3>
-    
-        <h4 class="noUnderscore clickable" on:click={() => goToSection(sevenOne)}>7.1 League Dues</h4>
-        <h4 class="noUnderscore clickable" on:click={() => goToSection(sixTwo)}>7.2 Payout</h4>
-        <h4 class="noUnderscore clickable" on:click={() => goToSection(sixThree)}>7.3 Raising Dues</h4>
+    <h3 class="noUnderscore clickable" on:click={() => goToSection(seven)}>Section 7: Change Log</h3>
     
     
     <hr />
     
-    <h2 class="sectionHeading" bind:this={one}>Section 1 Roster Breakdown</h2>
+    <h2 class="sectionHeading" bind:this={one}>Section 1: League Breakdown</h2>
     
-    <h3 class="subSectionHeading" bind:this={oneOne}>1.1 Positional Breakdown</h3>
+    <h3 class="subSectionHeading" bind:this={oneOne}>1.1  Executive Committee</h3>
     
-    <p>28 Total Players</p>
-    
-    <p class="underscore">Starters</p>
-    <ul>
-        <li>QB</li>
-        <li>RB</li>
-        <li>RB</li>
-        <li>WR</li>
-        <li>WR</li>
-        <li>TE</li>
-        <li>FLEX (RB/WR/TE)</li>
-        <li>FLEX (RB/WR)</li>
-        <li>D/ST</li>
-        <li>K</li>
-    </ul>
-    
-    <p>18 Bench (Expanded by 5 between the keague draft and start of regular season)</p>
-
-    <p>1 IR Spots (Player must be labeled as IR, Out, or Covid in the Sleeper App)</p>
+    <p>The executive committee for Armchair Football League for 2021 consists of: 
+Commissioner ‐ Ezekiel McBrayer (205) 907 8922 
+Committee Member ‐ Chris Ralph (256) 531 6821 
+Committee Member ‐ Jeffrey Leonard (256) 620 1738 
+The executive committee will be responsible for resolving all disputes that are not expressly covered by this constitution. If a committee member is involved in the dispute, that member will excuse themselves from the decision process. While all owners are encouraged to submit suggestions to the committee, the committee's decision on all matters is final. 
+Committee Members will rotate out one at a time on a 2‐year basis, allowing everyone to eventually be a part of the committee. New members will be announced at the current year’s draft.   
+	</p>
     
         <h4 bind:this={oneOneOne}>1.1.1 Position Maximums</h4>
         
