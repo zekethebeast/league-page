@@ -56,7 +56,7 @@ export const managers = [
   "rival": {
         name: "Tyler Berry", // Can be anything (usually your rival's name)
         link: 6, // manager array number within this array, or null to link back to all managers page
-        image: "IMG_2515.jpeg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
+        image: "/managers/IMG_2515.jpeg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
       },
   "favoritePlayer": 2028, // (optional) this corresponds to the Sleeper player ID (c)
   "valuePosition": "RB", // (optional) Favorite position (QB, WR, RB, TE, etc.)
@@ -119,7 +119,7 @@ export const managers = [
   "rival": {
         name: "Tyler Berry", // Can be anything (usually your rival's name)
         link: 6, // manager array number within this array, or null to link back to all managers page
-        image: "IMG_2515.jpeg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
+        image: "/managers/IMG_2515.jpeg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
       },
   "favoritePlayer": 96, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
   "valuePosition": "QB", // (optional) Favorite position (QB, WR, RB, TE, etc.)
@@ -133,7 +133,7 @@ export const managers = [
    "name": "Tyler Berry",
    "location": "Vero Beach", // (optional)
    "bio": "Born in Vero Beach in 92 ended up in Cullman in 03. Love God, Love others , and serve both!",
-   "photo": "IMG_2515.jpeg", // square ratio recommended (no larger than 500x500)
+   "photo": "/managers/IMG_2515.jpeg", // square ratio recommended (no larger than 500x500)
    "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
    "favoriteTeam": "atl", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
    "mode": "Dynasty", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
