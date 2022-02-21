@@ -145,11 +145,11 @@ u<script context="module">
     
     <h3 class="subSectionHeading" bind:this={oneOne}>1.1  Executive Committee</h3>
     
-    <p>The executive committee for Armchair Football League for 2021 consists of: 
-Commissioner ‐ Ezekiel McBrayer (205) 907 8922 
-Committee Member ‐ Chris Ralph (256) 531 6821 
-Committee Member ‐ Jeffrey Leonard (256) 620 1738 
-The executive committee will be responsible for resolving all disputes that are not expressly covered by this constitution. If a committee member is involved in the dispute, that member will excuse themselves from the decision process. While all owners are encouraged to submit suggestions to the committee, the committee's decision on all matters is final. 
+    <p>The executive committee for Armchair Football League for 2021 consists of: </p>
+<p>Commissioner ‐ Ezekiel McBrayer (205) 907 8922 </p>
+<p>Committee Member ‐ Chris Ralph (256) 531 6821 </p>
+<p>Committee Member ‐ Jeffrey Leonard (256) 620 1738 </p>
+<p>The executive committee will be responsible for resolving all disputes that are not expressly covered by this constitution. If a committee member is involved in the dispute, that member will excuse themselves from the decision process. While all owners are encouraged to submit suggestions to the committee, the committee's decision on all matters is final. 
 Committee Members will rotate out one at a time on a 2‐year basis, allowing everyone to eventually be a part of the committee. New members will be announced at the current year’s draft.   
 	</p>
     
