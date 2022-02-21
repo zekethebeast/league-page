@@ -7,7 +7,7 @@ u<script context="module">
     let one, oneOne, oneTwo;
     let two, twoOne, twoTwo;
     let three, threeOne, threeTwo, threeThree;
-    let four, fourOne, fourTwo, fourThree, fourFour, fourFive, fourFiveOne, fourSix, fourSixOne, fourSeven, fourEight;
+    let four, fourOne, fourTwo, fourThree, fourFour, fourFourOne, fourFive, fourFiveOne, fourSix, fourSixOne, fourSeven;
     let five;
     let six;
     let seven;
@@ -215,6 +215,7 @@ Amendments will be brought up at each year’s draft and will be voted on by the
     
     <h3 bind:this={fourTwo}>4.2 The Roster</h3>
 	<p>Roster composition will consist of the following: </p>
+	
 <p>∙ 10 Starters (detailed in section 4.5) 
 
 <p>∙ 16 Bench Players (No limits on positions) 
