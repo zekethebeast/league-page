@@ -163,14 +163,22 @@ Amendments will be brought up at each year’s draft and will be voted on by the
    
     
     
-    <h2 class="sectionHeading" bind:this={two}>Section 2 Drafting</h2>
-    
-    <h3 bind:this={twoOne}>2.1 Draft Order</h3>
-    <p>The draft order each year will be a linear draft in reverse order of the previous year’s regular season standings.</p>
+    <h2 class="sectionHeading" bind:this={two}>Section 2 League Financing</h2>
 
-    <h3 bind:this={twoTwo}>2.2 Rookie Drafts</h3>
-    <p>Rokkie drafts will consist of 3 round of drafting, with 5 minutes alotted for each pick. To make room for the incoming players, benches will be expanded by (5) spots. These spots will be removed in mid-August, at which point you will need to have cut the necessary players.</p>
-    <p>Any spots not filled during the draft, can be filled immediately afterwards from the waiver wire.</p>
+	<p>The league fee for Armchair Football League will be charged to each team owner and committee member, payable on League Vault on or before the night of the draft. If a team owner does not have the appropriate entry fee, the executive committee may make other arrangements for payment before the season starts at their discretion. </p>
+    
+    <h3 bind:this={twoOne}>2.1 League Fees</h3>
+    <p>The Armchair Football League fee for the 2021 season will be $75 from each owner. This fee consists of $50 entry fee plus $25 from each owner towards the 2022 season to ensure long term commitment. This fee is due on or before the draft. </p>
+
+    <p>Each subsequent year fee will be $52.50 (half of this years and half of next years) unless changed. $5 will go to the website hosting fee and the fee for the collection of dues. </p>
+
+    <h3 bind:this={twoTwo}>2.2 Prize Money</h3>
+    <p>League prize money will be paid out within seven days of the completion of the Armchair Football League Super Bowl. Money will be all three held by the commissioner and will be paid out in the following manner: </p>
+	<p>League Champion receives $300 </p>
+	<p>League Runner‐Up received $100 </p>
+	<p>League Scoring Champion receives $50 </p>
+	<p>League Regular Season Champion receives $50 </p>
+  
     
   
     <h2 class="sectionHeading" bind:this={three}>Section 3 Scoring System</h2>
