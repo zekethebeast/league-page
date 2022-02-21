@@ -254,7 +254,7 @@ and he scored three touchdowns, you cannot add him to your lineup on Friday. Onc
 	<h3 bind:this={fourSix}>4.6 Active Ownership</h3>
 	<p>Each owner is expected to actively manager their team each week, even if they are eliminated from any playoff consideration. If an owner does not submit a lineup for two consecutive weeks (determined by players on byes starting, injured players in a roster spot, etc.), the executive committee will have the right to assume control of the team and manage it for the rest of the season. A committee run team will not make any trades and is only allowed to add or drop players if the team cannot field a legal starting lineup due to injury or bye weeks. Any prize money won by a committee‐run team will be distributed evenly to the other active owners in the league.   </p>
 	
-	<h3 bind:this={fourSeven}>4.2 Anti Tanking Provision</h3>
+	<h3 bind:this={fourSeven}>4. Anti Tanking Provision</h3>
 	<p>Armchair Football League is a competitive league, created for the league owners to have fun playing fantasy football. While the competition may be fierce, this is not considered a cut‐throat league. In the spirit of competition and league fairness, owners are not allowed to intentionally create a legal starting lineup that gives the opposing team a clear advantage. The executive committee reserves the right to step in and adjust the starting lineup of a team that is clearly trying to intentionally lose a game. If the committee must adjust a team's lineup in two consecutive weeks or for three or more weeks in any one season, the team will be considered inactive and the executive committee may assume ownership of the team as detailed in the active ownership requirements section. </p>
 	
 
