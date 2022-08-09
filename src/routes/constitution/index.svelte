@@ -7,7 +7,7 @@ u<script context="module">
     let one, oneOne, oneTwo;
     let two, twoOne, twoTwo;
     let three, threeOne, threeTwo, threeThree;
-    let four, fourOne, fourTwo, fourThree, fourFour, fourFourOne, fourFive, fourFiveOne, fourSix, fourSixOne, fourSeven;
+    let four, fourOne, fourTwo, fourThree, fourFour, fourFourOne, fourFive, fourFiveOne, fourSix, fourSixOne, fourSeven; fourEight;
     let five;
     let six;
     let seven;
@@ -130,6 +130,7 @@ u<script context="module">
 	<h4 class="noUnderscore clickable" on:click={() => goToSection(fourFiveOne)}>4.5.1 Position Designations</h4>
 	<h4 class="noUnderscore clickable" on:click={() => goToSection(fourSix)}>4.6 Active Ownership Requirements</h4>
 	<h4 class="noUnderscore clickable" on:click={() => goToSection(fourSeven)}>4.7 Anti‐Tanking Provision</h4>
+	<h4 class="noUnderscore clickable" on:click={() => goToSection(fourEight)}>4.8 Retiring Players</h4>
 
     <h3 class="noUnderscore clickable" on:click={() => goToSection(five)}>Section 5: Scoring System</h3>
     
@@ -257,8 +258,14 @@ and he scored three touchdowns, you cannot add him to your lineup on Friday. Onc
 	<h3 bind:this={fourSeven}>4.7 Anti Tanking Provision</h3>
 	<p>Armchair Football League is a competitive league, created for the league owners to have fun playing fantasy football. While the competition may be fierce, this is not considered a cut‐throat league. In the spirit of competition and league fairness, owners are not allowed to intentionally create a legal starting lineup that gives the opposing team a clear advantage. The executive committee reserves the right to step in and adjust the starting lineup of a team that is clearly trying to intentionally lose a game. If the committee must adjust a team's lineup in two consecutive weeks or for three or more weeks in any one season, the team will be considered inactive and the executive committee may assume ownership of the team as detailed in the active ownership requirements section. </p>
 	
-
-
+	<h3 bind:this={fourSeven}>4.8 Retiring Players</h3>
+	<p>When a player retires, Managers have two options. </p>
+	<p>1.) A Manager can retain the players rights. The Manager will inform the Commissioner and they are then able to drop the player to free up a roster spot. If the retired player comes back to play, that Manager has the Right of First Refusal to add that player back to their roster at no penalty (other than needing an open spot). </p>
+	<p>2.) A Manager may receive a Supplemental Draft Pick for their player, granted they finish high enough in their respective postion.</p>
+	<p>For QB & TE: If the player finished Top 5 the previous season, the Manager would receive a Supplemental Pick at the end of Round 2 of next years draft. If the player finished Top 15 the previous season, the Manager would receive a Supplemental Pick at the end of Round 3 of next years draft.</p>
+	<p>For RB & WR: If the player finished Top 10 the previous season, the Manager would receive a Supplemental Pick at the end of Round 2 of next years draft. If the player finished Top 20 the previous season, the Manager would receive a Supplemental Pick at the end of Round 3 of next years draft.</p>
+	<p>Any situation not covered above will be decided on based on conversations with the League Commissioner. </p>
+	
     <h2 class="sectionHeading" bind:this={five}>Section 5 Scoring System</h2>
 	<p>Scoring in Armchair Football League will be computed to two decimal places. This will allow points to be awarded or deducted for every positive or negative yard and will dramatically reduce the chance of a tie game. Players are awarded fantasy points for each week that they are included in the team's starting lineup.   </p>
 	<p> The scoring breakdown can be seen on the Sleeper App and Website.</p>
@@ -270,6 +277,7 @@ and he scored three touchdowns, you cannot add him to your lineup on Friday. Onc
     <h2 class="sectionHeading" bind:this={seven}>Section 7 Change Log</h2>
 	<p>08/18/2021 - Switched the number of rounds in each year’s draft to 3 Rookie Only (from 5) and 5 Supplemental (from 3) to align with limitations on pick trading within Sleeper. </p>
 	<p>01/11/2022 - Changed fee to $52.50 per year to cover maintenance costs. </p>
+	<p>08/09/2022 - Updated PPR Scoring and added 4.8 Retiring Players </p>
 
     
   
