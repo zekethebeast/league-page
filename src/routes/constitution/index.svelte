@@ -7,7 +7,7 @@ u<script context="module">
     let one, oneOne, oneTwo;
     let two, twoOne, twoTwo;
     let three, threeOne, threeTwo, threeThree;
-    let four, fourOne, fourTwo, fourThree, fourFour, fourFourOne, fourFive, fourFiveOne, fourSix, fourSixOne, fourSeven; fourEight;
+    let four, fourOne, fourTwo, fourThree, fourFour, fourFourOne, fourFive, fourFiveOne, fourSix, fourSixOne, fourSeven, fourEight;
     let five;
     let six;
     let seven;
