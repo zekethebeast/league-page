@@ -258,7 +258,7 @@ and he scored three touchdowns, you cannot add him to your lineup on Friday. Onc
 	<h3 bind:this={fourSeven}>4.7 Anti Tanking Provision</h3>
 	<p>Armchair Football League is a competitive league, created for the league managers to have fun playing fantasy football. While the competition may be fierce, this is not considered a cut‐throat league. In the spirit of competition and league fairness, managers are not allowed to intentionally create a legal starting lineup that gives the opposing team a clear advantage. The executive committee reserves the right to step in and adjust the starting lineup of a team that is clearly trying to intentionally lose a game. If the committee must adjust a team's lineup in two consecutive weeks or for three or more weeks in any one season, the team will be considered inactive and the executive committee may assume the managing role of the team as detailed in the active management requirements section. </p>
 	
-	<h3 bind:this={fourSeven}>4.8 Retiring Players</h3>
+	<h3 bind:this={fourEight}>4.8 Retiring Players</h3>
 	<p>When a player retires, Managers have two options. </p>
 	<p>1.) A Manager can retain the players rights. The Manager will inform the Commissioner and they are then able to drop the player to free up a roster spot. If the retired player comes back to play, that Manager has the Right of First Refusal to add that player back to their roster at no penalty (other than needing an open spot). </p>
 	<p>2.) A Manager may receive a Supplemental Draft Pick for their player, granted they finish high enough in their respective position.</p>
