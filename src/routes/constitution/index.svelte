@@ -211,8 +211,7 @@ Amendments will be brought up at each year’s draft and will be voted on by the
 <p>After year one, the draft will consist of the following: </p>
 <p>∙ 3 round Linear Order draft – Rookies only, order based on reverse order of previous year standings </p>
 <p>∙ 5 round Linear Order Draft – Supplemental, order based on waiver priority at end of previous season </p>
-<p>Managers will have 2 minutes to make their picks. Any manager who does not make their pick in time will be skipped and will only have a 30 second window after the next team has made their selection. If they do not get it in time for the second time, their pick will automatically default to the end of the draft. 
-</p>
+<p>Managers will have 2 minutes to make their picks. Any manager who does not make their pick in time will be skipped and will only have a 30 second window after the next team has made their selection. If they do not get it in time for the second time, their pick will automatically default to the end of the draft. </p>
     
     <h3 bind:this={fourTwo}>4.2 The Roster</h3>
 	<p>Roster composition will consist of the following: </p>
@@ -245,8 +244,7 @@ Amendments will be brought up at each year’s draft and will be voted on by the
 <p>2 flex (running back, wide receiver, or tight end) </p>
 <p>1 Rec flex (wide receiver, or tight end) </p>
 <p>1 Superflex (quarterback, running back, wide receiver, or tight end) </p>
-<p>Players may be added or removed from the starting lineup up until the start of their game. Managers may make changes to their lineups but may not change a player that has already played. For example, if you started your quarterback on Thursday night and he has a bad game, you cannot switch him out for a quarterback who has not played. Also, if you did not start a wide receiver who played on Thursday night
-and he scored three touchdowns, you cannot add him to your lineup on Friday. Once the Thursday game begins, players from that game may not be started or benched. </p>
+<p>Players may be added or removed from the starting lineup up until the start of their game. Managers may make changes to their lineups but may not change a player that has already played. For example, if you started your quarterback on Thursday night and he has a bad game, you cannot switch him out for a quarterback who has not played. Also, if you did not start a wide receiver who played on Thursday night and he scored three touchdowns, you cannot add him to your lineup on Friday. Once the Thursday game begins, players from that game may not be started or benched. </p>
 
 	 
 	<h3 bind:this={fourFiveOne}>4.5.1 Position Designations</h3>
