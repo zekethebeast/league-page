@@ -261,14 +261,14 @@ and he scored three touchdowns, you cannot add him to your lineup on Friday. Onc
 	<h3 bind:this={fourEight}>4.8 Retiring Players</h3>
 	<p>When a player retires, Managers have two options. </p>
 <p>1.) A Manager can retain the players rights. The Manager will inform the Commissioner and they are then able to drop the player to free up a roster spot. If the retired player comes back to play, that Manager has the Right of First Refusal to add that player back to their roster at no penalty (other than needing an open spot). </p>
-<p>2.) A Manager may receive a Supplemental Draft Pick for their player, granted they finish high enough in their respective position.</p>
-<p>For QB & TE: If the player finished Top 5 the previous season, the Manager would receive a Supplemental Pick at the end of Round 2 of next year's draft. If the player finished Top 15 the previous season, the Manager would receive a Supplemental Pick at the end of Round 3 of next year's draft.</p>
-<p>For RB & WR: If the player finished Top 10 the previous season, the Manager would receive a Supplemental Pick at the end of Round 2 of next year's draft. If the player finished Top 20 the previous season, the Manager would receive a Supplemental Pick at the end of Round 3 of next year's draft.</p>
+<p>2.) A Manager may receive a Supplemental Draft Pick for their player, granted they finish high enough in their respective position. </p>
+<p>For QB & TE: If the player finished Top 5 the previous season, the Manager would receive a Supplemental Pick at the end of Round 2 of next year's draft. If the player finished Top 15 the previous season, the Manager would receive a Supplemental Pick at the end of Round 3 of next year's draft. </p>
+<p>For RB & WR: If the player finished Top 10 the previous season, the Manager would receive a Supplemental Pick at the end of Round 2 of next year's draft. If the player finished Top 20 the previous season, the Manager would receive a Supplemental Pick at the end of Round 3 of next year's draft. </p>
 <p>Any situation not covered above will be decided on based on conversations with the League Commissioner. </p>
 	
     <h2 class="sectionHeading" bind:this={five}>Section 5 Scoring System</h2>
 	<p>Scoring in Armchair Football League will be computed to two decimal places. This will allow points to be awarded or deducted for every positive or negative yard and will dramatically reduce the chance of a tie game. Players are awarded fantasy points for each week that they are included in the team's starting lineup.   </p>
-	<p> The scoring breakdown can be seen on the Sleeper App and Website.</p>
+	<p> The scoring breakdown can be seen on the Sleeper App and Website. </p>
     
   
     <h2 class="sectionHeading" bind:this={six}>Section 6 Offseason Activities</h2>
