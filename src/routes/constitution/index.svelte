@@ -224,7 +224,7 @@ Amendments will be brought up at each year’s draft and will be voted on by the
 
 <p> Players with 3 years' experience or less can be on a taxi squad </p>
 
-<p> Players must be placed on the Taxi Squad before the start of the regular season o Once a player is on a Taxi Squad, they will remain there until activated. Once the season begins, no player can be placed on the Taxi Squad.  </p>
+<p> Players must be placed on the Taxi Squad before the start of the regular season. Once a player is on a Taxi Squad, they will remain there until activated. Once the season begins, no player can be placed on the Taxi Squad.  </p>
 
 	   <h3 bind:this={fourThree}>4.3 Free Agency</h3>
 	<p>Free Agency will be Rolling Waiver setting. The order will be randomized after the initial draft. When a player is claimed off waivers, you will be placed at the bottom of the waiver priority. Your position is not lowered until you claim a player. Waivers will clear each Wednesday at 12:05am. A player is held on waivers 2 days after being dropped. A player who is a free agent should not reset your waiver claim status.   </p>
