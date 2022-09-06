@@ -218,7 +218,7 @@ Amendments will be brought up at each year’s draft and will be voted on by the
 	
 <p>∙ 10 Starters (detailed in section 4.5) 
 
-<p>∙ 16 Bench Players (No limits on positions) 
+<p>∙ 18 Bench Players (No limits on positions) 
 
 <p>∙ 3 Injured Reserve Spots (This included players who miss because of COVID‐19) ∙ 3 Taxi Squad Spots </p>
 
